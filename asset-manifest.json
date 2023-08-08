@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-amit/static/css/main.18db22a5.css",
+    "main.js": "/plan-with-amit/static/js/main.34ed0c00.js",
+    "index.html": "/plan-with-amit/index.html",
+    "main.18db22a5.css.map": "/plan-with-amit/static/css/main.18db22a5.css.map",
+    "main.34ed0c00.js.map": "/plan-with-amit/static/js/main.34ed0c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18db22a5.css",
+    "static/js/main.34ed0c00.js"
+  ]
+}
