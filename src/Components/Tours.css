@@ -1,0 +1,54 @@
+.card {
+
+    width: 410px;
+    border-radius: 8px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.image img {
+    display: block;
+    height: 380px;
+    width: 380px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+.price-tag {
+    color: #1faa59;
+    font-size: 1.3rem;
+}
+
+.city-name {
+    margin-top: 10px;
+    font-weight: bold
+}
+
+.items {
+    padding: 15px;
+}
+
+.city-description span {
+    color: #12b0e8;
+    cursor: pointer;
+}
+
+.not-intrested {
+    background-color: #b4161b21;
+    border: 1px solid #b4161b;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 18px;
+    padding: 10px 80px;
+    margin: 10px auto;
+    display: block;
+}
+.not-intrested:hover{
+    color: white;
+    background-color: #ff0008;
+}
+p{
+    font-size: 1.05rem;
+    line-height: 1.5rem;
+}
